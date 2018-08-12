@@ -1,5 +1,5 @@
 # Trillo-Advance-CSS-course
-advance usage of Flexbox, using custom property in CSS, SVG and interesting animation
+learning advance usage of Flexbox, using custom property in CSS, SVG and interesting animation
 <br>
 <h3>Feature that I learned from this course</h3>
 <ul>
